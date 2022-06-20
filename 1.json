@@ -1,0 +1,11 @@
+{
+  "name": "test#1",
+  "image": "https://dq.yam.com/post/13085",
+  "description": "描述描述描述描述描述描述描述",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "blue"
+    }
+  ]
+}
