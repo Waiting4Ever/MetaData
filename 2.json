@@ -1,0 +1,11 @@
+{
+  "name": "test#2",
+  "image": "https://www.google.com/logos/doodles/2022/winter-games-2022-begin-feb-4-6753651837109353.4-2xa.gif",
+  "description": "冬奧",
+  "attributes": [
+    {
+      "trait_type": "Season",
+      "value": "winter"
+    }
+  ]
+}
